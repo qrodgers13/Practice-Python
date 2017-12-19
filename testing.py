@@ -1,2 +1,2 @@
 print("Testing")
-pring("second test")
+print("second test")
